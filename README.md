@@ -18,8 +18,6 @@
 
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=lukas-sgx&show_icons=true&hide_border=true&theme=tokyonight)  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukas-sgx&layout=compact&hide_border=true&theme=tokyonight)
-
+![Stats](https://streak-stats.demolab.com/?user=lukas-sgx&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j[,%20Y]&order=3)  
 
 ✨ *Couteau Suisse*
