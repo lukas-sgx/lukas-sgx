@@ -16,8 +16,4 @@
 
 - **OS** : <img alt="arch" src="https://img.shields.io/badge/-Arch Linux-193d56?style=flat-square&logo=arch-linux&logoColor=white" /> <img alt="ubuntu" src="https://img.shields.io/badge/-Ubutnu-e75420?style=flat-square&logo=ubuntu&logoColor=white" /> <img alt="manjaro" src="https://img.shields.io/badge/-Manjaro-52a048?style=flat-square&logo=manjaro&logoColor=white" /> <img alt="kali" src="https://img.shields.io/badge/-Kali-2d7bff?style=flat-square&logo=kali-linux&logoColor=white" />
 
-
-## 📈 GitHub Stats
-![Stats](https://streak-stats.demolab.com/?user=lukas-sgx&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j[,%20Y]&order=3)  
-
 ✨ *Couteau Suisse*
