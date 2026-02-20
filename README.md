@@ -14,9 +14,15 @@
 
 - **Interest Area** : Cybersec 🔐 - Infra 🚧 - Dev 🧑‍💻
 
-- **HackTheBox Player** :
-<img alt="lukassgx9" src="https://www.hackthebox.com/badge/image/772108" />
-
 - **OS** : <img alt="arch" src="https://img.shields.io/badge/-Arch Linux-193d56?style=flat-square&logo=arch-linux&logoColor=white" /> <img alt="ubuntu" src="https://img.shields.io/badge/-Ubutnu-e75420?style=flat-square&logo=ubuntu&logoColor=white" /> <img alt="manjaro" src="https://img.shields.io/badge/-Manjaro-52a048?style=flat-square&logo=manjaro&logoColor=white" /> <img alt="kali" src="https://img.shields.io/badge/-Kali-2d7bff?style=flat-square&logo=kali-linux&logoColor=white" />
+
+
+## 📈 Stats
+- **HackTheBox** :
+  <br />
+  <img alt="lukassgx9" src="https://www.hackthebox.com/badge/image/772108" />
+- **Github** :
+  <br />
+  <img alt="lukas-sgx" src="https://streak-stats.demolab.com/?user=lukas-sgx&theme=dracula&hide_border=true" height="150px"/>
 
 ✨ *Couteau Suisse*
