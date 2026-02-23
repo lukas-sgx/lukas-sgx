@@ -10,7 +10,7 @@
 </p>
 
 - **Techno** : <img alt="mysql" src="https://img.shields.io/badge/-MySQL-08658c?style=flat-square&logo=mysql&logoColor=white" /> <img alt="redis" src="https://img.shields.io/badge/-Redis-ff4438?style=flat-square&logo=redis&logoColor=white" /> <img alt="postgre" src="https://img.shields.io/badge/-PostgreSQL-376595?style=flat-square&logo=postgresql&logoColor=white" /> <img alt="django" src="https://img.shields.io/badge/-Django-103326?style=flat-square&logo=django&logoColor=white" /> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="docker" src="https://img.shields.io/badge/-Docker-0872bd?style=flat-square&logo=docker&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> <img alt="flutter" src="https://img.shields.io/badge/-Flutter-144ba3?style=flat-square&logo=flutter&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> <img alt="flutter" src="https://img.shields.io/badge/-Flutter-144ba3?style=flat-square&logo=flutter&logoColor=white" /> <img alt="jenkins" src="https://img.shields.io/badge/-Jenkins-fdfdfd?style=flat-square&logo=jenkins&logoColor=black" />
 
 - **Interest Area** : Cybersec 🔐 - Infra 🚧 - Dev 🧑‍💻
 
