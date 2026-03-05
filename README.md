@@ -21,6 +21,9 @@
 - **HackTheBox** :
   <br />
   <img alt="lukassgx9" src="https://www.hackthebox.com/badge/image/772108" />
+  <br />
+  Seasonal Ranking : **1281** / 8478
+  <br />
 - **Github** :
   <br />
   <img alt="lukas-sgx" src="https://streak-stats.demolab.com/?user=lukas-sgx&theme=dracula&hide_border=true" height="150px"/>
