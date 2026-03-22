@@ -22,7 +22,7 @@
   <br />
   <img alt="lukassgx9" src="https://www.hackthebox.com/badge/image/772108" />
   <br />
-  Seasonal Ranking : **1375** / 9952
+  Seasonal Ranking : **1387** / 10026
   <br />
 - **Github** :
   <br />
