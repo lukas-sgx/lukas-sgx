@@ -14,7 +14,7 @@
 
 - **Interest Area** : Cybersec 🔐 - Infra 🚧 - Dev 🧑‍💻
 
-- **OS** : <img alt="arch" src="https://img.shields.io/badge/-NixOS-567bc3?style=flat-square&logo=nixos&logoColor=white" /> <img alt="arch" src="https://img.shields.io/badge/-Arch Linux-193d56?style=flat-square&logo=arch-linux&logoColor=white" /> <img alt="ubuntu" src="https://img.shields.io/badge/-Ubutnu-e75420?style=flat-square&logo=ubuntu&logoColor=white" /> <img alt="manjaro" src="https://img.shields.io/badge/-Manjaro-52a048?style=flat-square&logo=manjaro&logoColor=white" /> <img alt="kali" src="https://img.shields.io/badge/-Kali-2d7bff?style=flat-square&logo=kali-linux&logoColor=white" />
+- **OS** : <img alt="arch" src="https://img.shields.io/badge/-NixOS-567bc3?style=flat-square&logo=nixos&logoColor=white" /> <img alt="arch" src="https://img.shields.io/badge/-Arch Linux-193d56?style=flat-square&logo=arch-linux&logoColor=white" /> <img alt="ubuntu" src="https://img.shields.io/badge/-Ubutnu-e75420?style=flat-square&logo=ubuntu&logoColor=white" /> <img alt="manjaro" src="https://img.shields.io/badge/-Manjaro-52a048?style=flat-square&logo=manjaro&logoColor=white" /> <img alt="kali" src="https://img.shields.io/badge/-Kali-2d7bff?style=flat-square&logo=kali-linux&logoColor=white" /> <img alt="rocky" src="https://img.shields.io/badge/-Rocky-10b981?style=flat-square&logo=rocky-linux&logoColor=white" />
 
 
 ## 📈 Stats
