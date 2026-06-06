@@ -33,7 +33,6 @@
 
 Seasonal Ranking: `2589 / 12294`
 
-<br />
 
 **Github**
 
