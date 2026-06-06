@@ -27,13 +27,13 @@
 ---
 
 ## 📊 Performance & Metrics
-- **HackTheBox Cyber Security Labs**
+**HackTheBox Cyber Security Labs**
 
 <img alt="HackTheBox Badge" src="https://www.hackthebox.com/badge/image/772108" width="200px" />
 <br />
 
 Seasonal Ranking: `2589 / 12294`
 
-- **Github**
+**Github**
 
 <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=lukas-sgx&theme=dracula&hide_border=true" height="150px"/>
