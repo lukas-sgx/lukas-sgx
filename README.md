@@ -30,8 +30,6 @@
 **HackTheBox Cyber Security Labs**
 
 <img alt="HackTheBox Badge" src="https://www.hackthebox.com/badge/image/772108" width="200px" />
-<br />
-
 Seasonal Ranking: `2589 / 12294`
 
 **Github**
