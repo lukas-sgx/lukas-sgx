@@ -1,31 +1,39 @@
-# 👋 Hey, I'm Lukas Soigneux
+# Lukas Soigneux
 
-💻 IT student at Epitech Nice & passionate about **development** and **cybersecurity**  
-⚡ I love to learn, experiment and code  
-🌱 Always eager to gain new skills and discover new technologies  
+> **Software Engineering Student at Epitech Nice**  
+> Focus: *Systems Development, DevOps & Cybersecurity*
 
+---
 
-## 🚀 Tech Stack
-<p style="text-align: center;"><img alt="c" src="https://img.shields.io/badge/C-005895?style=flat-square&logo=c&logoColor=white" /> <img alt="go" src="https://img.shields.io/badge/-Go-00a6d5?style=flat-square&logo=Go&logoColor=white" /> <img alt="go" src="https://img.shields.io/badge/-Rust-f74c00?style=flat-square&logo=Rust&logoColor=white" /> <img alt="redis" src="https://img.shields.io/badge/-Python-193d56?style=flat-square&logo=python&logoColor=white" /> <img alt="dart" src="https://img.shields.io/badge/-Dart-165495?style=flat-square&logo=Dart&logoColor=white" /> <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="css" src="https://img.shields.io/badge/-CSS-0851e9?style=flat-square&logo=css&logoColor=white" /> <img alt="js" src="https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript&logoColor=efd81d" /> <img alt="php" src="https://img.shields.io/badge/-PHP-505c90?style=flat-square&logo=php&logoColor=white" /> <img alt="go" src="https://img.shields.io/badge/-TS-0076c5?style=flat-square&logo=Typescript&logoColor=white" /> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-ASM-007ACC?style=flat-square&logo=assemblyscript&logoColor=white" />
-</p>
+## 📌 Professional Profile
 
-- **Techno** : <img alt="mysql" src="https://img.shields.io/badge/-MySQL-08658c?style=flat-square&logo=mysql&logoColor=white" /> <img alt="redis" src="https://img.shields.io/badge/-Redis-ff4438?style=flat-square&logo=redis&logoColor=white" /> <img alt="postgre" src="https://img.shields.io/badge/-PostgreSQL-376595?style=flat-square&logo=postgresql&logoColor=white" /> <img alt="postgre" src="https://img.shields.io/badge/-Cloudflare-000000?style=flat-square&logo=cloudflare&logoColor=f78c31" /> <img alt="django" src="https://img.shields.io/badge/-Django-103326?style=flat-square&logo=django&logoColor=white" /> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="docker" src="https://img.shields.io/badge/-Docker-0872bd?style=flat-square&logo=docker&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white" /> <img alt="flutter" src="https://img.shields.io/badge/-Flutter-144ba3?style=flat-square&logo=flutter&logoColor=white" /> <img alt="jenkins" src="https://img.shields.io/badge/-Jenkins-fdfdfd?style=flat-square&logo=jenkins&logoColor=black" />
+* **Specialization:** Passionate about low-level programming, secure architectures, and automation.
+* **Methodology:** Autonomous learner, driven by hands-on experimentation, CTFs, and rigorous code standards.
+* **Objective:** Developing robust applications while implementing strong security practices from the ground up (DevSecOps approach).
 
-- **Interest Area** : Cybersec 🔐 - Infra 🚧 - Dev 🧑‍💻
+---
 
-- **OS** : <img alt="arch" src="https://img.shields.io/badge/-NixOS-567bc3?style=flat-square&logo=nixos&logoColor=white" /> <img alt="arch" src="https://img.shields.io/badge/-Arch Linux-193d56?style=flat-square&logo=arch-linux&logoColor=white" /> <img alt="ubuntu" src="https://img.shields.io/badge/-Ubuntu-e75420?style=flat-square&logo=ubuntu&logoColor=white" /> <img alt="manjaro" src="https://img.shields.io/badge/-Manjaro-52a048?style=flat-square&logo=manjaro&logoColor=white" /> <img alt="kali" src="https://img.shields.io/badge/-Kali-2d7bff?style=flat-square&logo=kali-linux&logoColor=white" /> <img alt="rocky" src="https://img.shields.io/badge/-Rocky-10b981?style=flat-square&logo=rocky-linux&logoColor=white" />
+## 🛠️ Technical Expertise
 
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Systems & Low-Level** | ![C](https://img.shields.io/badge/C-005895?style=flat-square&logo=c&logoColor=white) ![ASM](https://img.shields.io/badge/-ASM-007ACC?style=flat-square&logo=assemblyscript&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-f74c00?style=flat-square&logo=Rust&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00a6d5?style=flat-square&logo=Go&logoColor=white) |
+| **Backend & Scripting** | ![Python](https://img.shields.io/badge/-Python-193d56?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TS-0076c5?style=flat-square&logo=Typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript&logoColor=efd81d) ![PHP](https://img.shields.io/badge/-PHP-505c90?style=flat-square&logo=php&logoColor=white) |
+| **Frameworks & Apps** | ![Django](https://img.shields.io/badge/-Django-103326?style=flat-square&logo=django&logoColor=white) ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-144ba3?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-165495?style=flat-square&logo=Dart&logoColor=white) |
+| **Databases & Cache** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-376595?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-08658c?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-ff4438?style=flat-square&logo=redis&logoColor=white) |
+| **Infra / DevOps** | ![Docker](https://img.shields.io/badge/-Docker-0872bd?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&width=80&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-fdfdfd?style=flat-square&logo=jenkins&logoColor=black) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000000?style=flat-square&logo=cloudflare&logoColor=f78c31) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Environments & OS** | ![NixOS](https://img.shields.io/badge/-NixOS-567bc3?style=flat-square&logo=nixos&logoColor=white) ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-193d56?style=flat-square&logo=arch-linux&logoColor=white) ![Kali Linux](https://img.shields.io/badge/-Kali-2d7bff?style=flat-square&logo=kali-linux&logoColor=white) ![Rocky Linux](https://img.shields.io/badge/-Rocky-10b981?style=flat-square&logo=rocky-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-e75420?style=flat-square&logo=ubuntu&logoColor=white) |
 
-## 📈 Stats
-- **HackTheBox** :
-  <br />
-  <img alt="lukassgx9" src="https://www.hackthebox.com/badge/image/772108" />
-  <br />
-  Seasonal Ranking : **1387** / 10026
-  <br />
-- **Github** :
-  <br />
-  <img alt="lukas-sgx" src="https://streak-stats.demolab.com/?user=lukas-sgx&theme=dracula&hide_border=true" height="150px"/>
+---
 
-✨ *Couteau Suisse*
+## 📊 Performance & Metrics
+- **HackTheBox Cyber Security Labs**
+
+<img alt="HackTheBox Badge" src="https://www.hackthebox.com/badge/image/772108" width="200px" />
+<br />
+
+Seasonal Ranking: `2589 / 12294`
+
+- **Github**
+
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=lukas-sgx&theme=dracula&hide_border=true" height="150px"/>
