@@ -1,6 +1,6 @@
 # Lukas Soigneux
 
-> **Software Engineering Student at Epitech Nice**
+> **Software Engineering Student at Epitech Nice**  
 > Focus: *Systems Programming & Low-Level Development*
 
 ---
