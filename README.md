@@ -1,15 +1,15 @@
 # Lukas Soigneux
 
-> **Software Engineering Student at Epitech Nice**  
-> Focus: *Systems Development, DevOps & Cybersecurity*
+> **Software Engineering Student at Epitech Nice**
+> Focus: *Systems Programming & Low-Level Development*
 
 ---
 
 ## 📌 Professional Profile
 
-* **Specialization:** Passionate about low-level programming, secure architectures, and automation.
-* **Methodology:** Autonomous learner, driven by hands-on experimentation, CTFs, and rigorous code standards.
-* **Objective:** Developing robust applications while implementing strong security practices from the ground up (DevSecOps approach).
+- **Specialization:** Passionate about low-level programming, OS internals, and building tools that other developers rely on.
+- **Methodology:** Autonomous learner, driven by hands-on experimentation, open source contributions, and rigorous engineering standards.
+- **Objective:** Building robust, performant systems — from SDKs and runtimes to kernel-space software.
 
 ---
 
@@ -21,7 +21,7 @@
 | **Backend & Scripting** | ![Python](https://img.shields.io/badge/-Python-193d56?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-0076c5?style=for-the-badge&logo=Typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&logoColor=efd81d) ![PHP](https://img.shields.io/badge/-PHP-505c90?style=for-the-badge&logo=php&logoColor=white) |
 | **Frameworks & Apps** | ![Django](https://img.shields.io/badge/-Django-103326?style=for-the-badge&logo=django&logoColor=white) ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-144ba3?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-165495?style=for-the-badge&logo=Dart&logoColor=white) |
 | **Databases & NoSQL** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-376595?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-08658c?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-ff4438?style=for-the-badge&logo=redis&logoColor=white) |
-| **Infra / DevOps** | ![Docker](https://img.shields.io/badge/-Docker-0872bd?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326de6?style=for-the-badge&logo=kubernetes&width=80&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-fdfdfd?style=for-the-badge&logo=jenkins&logoColor=black) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=f78c31) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **Infra / Tooling** | ![Docker](https://img.shields.io/badge/-Docker-0872bd?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326de6?style=for-the-badge&logo=kubernetes&width=80&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-fdfdfd?style=for-the-badge&logo=jenkins&logoColor=black) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=f78c31) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | **Environments & OS** | ![NixOS](https://img.shields.io/badge/-NixOS-567bc3?style=for-the-badge&logo=nixos&logoColor=white) ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-193d56?style=for-the-badge&logo=arch-linux&logoColor=white) ![Kali Linux](https://img.shields.io/badge/-Kali-2d7bff?style=for-the-badge&logo=kali-linux&logoColor=white) ![Rocky Linux](https://img.shields.io/badge/-Rocky-10b981?style=for-the-badge&logo=rocky-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-e75420?style=for-the-badge&logo=ubuntu&logoColor=white) |
 
 ---
