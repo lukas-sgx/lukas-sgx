@@ -27,7 +27,7 @@
 ## 📊 Performance & Metrics
 **HackTheBox Cyber Security Labs**
 
-<a href="https://app.hackthebox.com/profile/772108" target="_blank">
+<a href="https://app.hackthebox.com/public/users/772108" target="_blank">
   <img alt="HackTheBox Badge" src="https://www.hackthebox.com/badge/image/772108" width="200px" />
 </a>
 
