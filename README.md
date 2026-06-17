@@ -1,15 +1,15 @@
 # Lukas Soigneux
 
 > **Software Engineering Student at Epitech Nice**  
-> Focus: Systems Programming, Low-Level Development & Security
+> Focus: *Systems Programming & Low-Level Development*
 
 ---
 
-## 📌 Profile
+## 📌 Professional Profile
 
-* **Core Focus:** Building high-performance software — from SDKs and custom tooling to system-level infrastructure.
-* **Philosophy:** Driven by low-level curiosity, open-source contributions, and rigorous engineering standards.
-* **Currently:** Rewriting Epitech's automated coding style checker from C++ to Rust.
+- **Specialization:** Passionate about low-level programming, OS internals, and building tools that other developers rely on.
+- **Methodology:** Autonomous learner, driven by hands-on experimentation, open source contributions, and rigorous engineering standards.
+- **Objective:** Building robust, performant systems — from SDKs and runtimes to kernel-space software.
 
 ---
 
@@ -25,12 +25,9 @@
 
 ---
 
-## 🔒 Security Metrics
-
+## 📊 Performance & Metrics
 **HackTheBox Cyber Security Labs**
 
-<a href="https://app.hackthebox.com/profile/772108" target="_blank">
-  <img alt="HackTheBox Badge" src="https://www.hackthebox.com/badge/image/772108" width="260px" />
-</a>
+<img alt="HackTheBox Badge" src="https://www.hackthebox.com/badge/image/772108" width="200px" />
 
-* **Seasonal Ranking:** `2,589 / 12,294`
+Seasonal Ranking: `2589 / 12294`
