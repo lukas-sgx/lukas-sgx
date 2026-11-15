@@ -11,7 +11,7 @@
 
 - **Methodology:** Autonomous learner, driven by hands-on experimentation, open-source collaborations, and rigorous engineering standards.
 
-- **Objective:** Building resilient, performant, and reproducible cloud environments — ensuring reliability, security, and scalability at scale.
+- **Objective:** Building resilient, performant, and reproducible cloud environments - ensuring reliability, security, and scalability at scale.
 
 
 ---
